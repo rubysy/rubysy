@@ -1,4 +1,4 @@
-# 🤖 Welcome to My Digital Workshop
+#  Welcome to My Digital Workshop
 <div align="center">
   
 <!-- Iron Man Helmet SVG -->
