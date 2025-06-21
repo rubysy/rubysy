@@ -68,7 +68,7 @@
 
 ```javascript
 const rubysy = {
-    name: "RubySy",
+    name: "Ruby S.Y",
     role: "Full Stack Developer",
     mode: "Always Learning",
     currentStatus: "Building awesome projects",
@@ -83,7 +83,7 @@ const rubysy = {
         hardware: ["Arduino", "Electronics", "Robotics"]
     },
     
-    motto: "Code is poetry, bugs are just... unexpected features! 🐛✨"
+    motto: "Code is poetry, bugs are just... unexpected features! ✨"
 };
 ```
 
@@ -120,7 +120,7 @@ const rubysy = {
 
 <div align="center">
 
-### 🎯 Languages & Frameworks
+###  Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -167,14 +167,14 @@ const rubysy = {
 
 ---
 
-## 🎯 Current Mission:
+##  Current Mission:
 
 <div align="center">
 
 ```
-🚀 Building next-generation web applications
+🚀 Building next-gen web applications
 🤖 Exploring AI and Machine Learning
-🔧 Tinkering with IoT and Arduino projects  
+🔧 Learn and Tinkering with IoT and Arduino projects  
 📚 Mastering new technologies every day
 🌟 Contributing to open source projects
 ```
@@ -185,7 +185,7 @@ const rubysy = {
 
 <div align="center">
 
-### 💭 Developer Quote:
+### 💭 Dev Quote:
 *"First, solve the problem. Then, write the code."* - John Johnson
 
 ---
