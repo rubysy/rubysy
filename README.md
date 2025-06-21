@@ -54,7 +54,7 @@
   </text>
 </svg>
 
-<h1>🔥 RUBYSY - Full Stack Developer 🔥</h1>
+<h1> Welcome I'm Ruby - Full Stack Developer </h1>
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Playground!;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing;Let's+Create+Something+Amazing!" alt="Typing SVG" />
